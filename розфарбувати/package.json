@@ -1,0 +1,11 @@
+{
+  "name": "algorithmia",
+  "version": "^1.0.0",
+  "description": "",
+  "main": "algorithmia.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
