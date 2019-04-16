@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bakum92.github.io
+Token: ce1fb1194058e5dd6642d87e3922f218e66940a7160f4f0596d725f8c1c8df92
